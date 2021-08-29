@@ -18,11 +18,7 @@ We will create an application using the github public api.
 
 Print of the finished project.
 
-<<<<<<< HEAD
 ![plot](./image/snapshot-1.png)
-=======
-![Screenshot](screenshot-1.PNG)
->>>>>>> ab911c2a02c14c0de20ec9f1fb0d887efef7e9d7
 
 ### Libraries used
 
